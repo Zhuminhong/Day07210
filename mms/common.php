@@ -5,6 +5,7 @@
 */
 //错误处理
 error_reporting(E_ALL^E_NOTICE^E_STRICT);
+//通过注释代替更新的内容
 //设置默认时区
 date_default_timezone_set("PRC");
 //开启session
