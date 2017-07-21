@@ -3,6 +3,7 @@
 *作者：ZMH 
 *
 */
+//note from bao
 error_reporting(E_ALL^E_NOTICE);
 //把common.php文件包含进来
 include 'common.php';
